@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivan-vorontsov
 - 👀 I’m interested in math, applied physics... and coding
-- 🌱 I’m currently learning the artificial intelligence algorithms
-- 💞️ I’m looking to collaborate on musical chords recornition app
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pls email on linelander@icloud.com
 
 <!---
